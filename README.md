@@ -1,4 +1,4 @@
-# 🚀 ChatSphere – React-Native Chat App
+# 🚀 ChattingApp – React-Native Chat App
 
 A sleek, **end-to-end encrypted-style** chat application built with **React-Native (Expo)**, **Firebase Firestore**, and **GLM-4 AI**.
 
