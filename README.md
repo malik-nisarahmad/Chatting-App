@@ -34,15 +34,6 @@ A sleek, **end-to-end encrypted-style** chat application built with **React-Nati
 
 ---
 
-## 📸 Screenshots
-
-<p float="left">
-  <img src="./assets/readme/screen1.png" width="200" />
-  <img src="./assets/readme/screen2.png" width="200" />
-</p>
-
----
-
 ## 🚀 Quick Start
 
 1. **Clone & Install**
